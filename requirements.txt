@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+SQLAlchemy
+pyodbc
+prefect>=3

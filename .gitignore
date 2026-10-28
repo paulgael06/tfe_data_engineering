@@ -1,0 +1,20 @@
+# Environnements virtuels
+venv/
+prefect_env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Données (non publiées : licence et volume)
+*.csv
+*.json
+*.parquet
+scripts/data/*
+!scripts/data/README.md
+
+# Logs et fichiers locaux
+logs/
+.vscode/
+.env
