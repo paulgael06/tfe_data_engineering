@@ -37,7 +37,7 @@ flowchart LR
 ## Key figures
 
 - **20 countries**, 3 job categories (data engineering, data analytics, data science)
-- **47,410 job offers** and **71,913 salary records** in the Gold layer
+- **105,470 job offers** and **71,913 salary records** in the Gold layer
 - A full run takes about **10 minutes**. About **94 %** of that time is spent in the API collection (Bronze), because the API returns 100 offers per call and is queried page by page for each country.
 
 ## Features
